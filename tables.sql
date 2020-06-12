@@ -56,8 +56,8 @@ CREATE TABLE LaptopOrders (
 	OrderID CHAR(4) NOT NULL,
 	LaptopID CHAR(4) NOT NULL,
 	Quantity INT NOT NULL CHECK (Quantity > 0 AND Quantity <= 999),
-	OrderCost DEC(11,2) NOT NULL CHECK (OrderCost > 0), -- the total cost of the order with discounts and fees
-	Deals DEC(2,2) CHECK (Deals > 0),				   -- written as a percent and if there are no deals, it's left null
+	OrderCost DEC(11,2) NOT NULL CHECK (OrderCost > 0), -- the total cost of the order with discounts and fees based on LaptopID
+	Deals DEC(2,2) CHECK (Deals > 0),					-- written as a percent and if there are no deals, it's left null
 	CONSTRAINT FK_OrderID FOREIGN KEY (OrderID) REFERENCES Orders(OrderID),
 	CONSTRAINT FK_LaptopID FOREIGN KEY (LaptopID) REFERENCES Laptops(LaptopID)
 	);
@@ -145,16 +145,16 @@ INSERT INTO LaptopOrders
 VALUES ('1001', '1000', 9, 5491.72‬, .10);
 
 INSERT INTO LaptopOrders 
-VALUES ('1002', '1002', 5, 101.25, .99‬);
+VALUES ('1002', '1002', 5, 100.01, .99‬);
 
 INSERT INTO LaptopOrders
-VALUES ('1002', '1004', 1, 684.88, .15);
+VALUES ('1002', '1004', 1, 681.05, .15);
 
 INSERT INTO LaptopOrders
 VALUES ('1003', '1001', 1, 799999.99, .20);
 
 INSERT INTO LaptopOrders
-VALUES ('1004', '1003', 2, 725.74, .40);
+VALUES ('1004', '1003', 2, 723.44, .40);
 
 INSERT INTO LaptopOrders
 VALUES ('1005', '1005', 1, 899.99, NULL);
