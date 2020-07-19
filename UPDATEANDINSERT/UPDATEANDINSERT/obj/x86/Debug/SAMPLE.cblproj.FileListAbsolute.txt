@@ -1,0 +1,13 @@
+C:\IHCC\Summer Term 2020\Database Programming With DB2\SAMPLE\SAMPLE\obj\x86\Debug\Sample.idy
+C:\IHCC\Summer Term 2020\Database Programming With DB2\SAMPLE\SAMPLE\obj\x86\Debug\SimpleAccess.idy
+C:\IHCC\Summer Term 2020\Database Programming With DB2\SAMPLE\SAMPLE\bin\x86\Debug\Sample.idy
+C:\IHCC\Summer Term 2020\Database Programming With DB2\SAMPLE\SAMPLE\bin\x86\Debug\SimpleAccess.idy
+C:\IHCC\Summer Term 2020\Database Programming With DB2\MYSAMPLE\SAMPLE\bin\x86\Debug\Sample.idy
+C:\IHCC\Summer Term 2020\Database Programming With DB2\MYSAMPLE\SAMPLE\bin\x86\Debug\SimpleAccess.idy
+C:\IHCC\Summer Term 2020\Database Programming With DB2\MYSAMPLE\SAMPLE\obj\x86\Debug\Sample.idy
+C:\IHCC\Summer Term 2020\Database Programming With DB2\MYSAMPLE\SAMPLE\obj\x86\Debug\SimpleAccess.idy
+C:\IHCC\Summer Term 2020\Database Programming With DB2\MYSAMPLEREVISED\SAMPLE\bin\x86\Debug\Sample.idy
+C:\IHCC\Summer Term 2020\Database Programming With DB2\MYSAMPLEREVISED\SAMPLE\bin\x86\Debug\SimpleAccess.idy
+C:\IHCC\Summer Term 2020\Database Programming With DB2\MYSAMPLEREVISED\SAMPLE\obj\x86\Debug\Sample.idy
+C:\IHCC\Summer Term 2020\Database Programming With DB2\MYSAMPLEREVISED\SAMPLE\obj\x86\Debug\SimpleAccess.idy
+C:\IHCC\Summer Term 2020\Database Programming With DB2\MYSAMPLEREVISEDINSERT\SAMPLE\bin\x86\Debug\SimpleAcces.idy
