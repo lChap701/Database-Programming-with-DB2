@@ -46,7 +46,7 @@
                ELSE
                    display 'Employee not found'
                            
-e               END-IF.
+               END-IF.
           
            
            DISPLAY 'Press enter to continue'.
@@ -68,7 +68,6 @@ e               END-IF.
            .
        
        
-=======
        WORKING-STORAGE SECTION.
        01  WKHOLD                  PIC X.
        
