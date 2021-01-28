@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+^C:\IHCC\SUMMER TERM 2020\DATABASE PROGRAMMING WITH DB2\MYSAMPLEREVISEDINSERT\SAMPLE\ACCES.CBL
+MFCBT_Directives=int"C:.\bin\x86\Debug\Acces.int" dialect"MF" anim cobidy"obj\x86\Debug\" sourcetabstop"4" DB2(DB) noquery warnings"2" max-error"100" noobj"C:.\bin\x86\Debug\Acces.int" xtraint . MFCBT_CopyPaths=
+^C:\IHCC\SUMMER TERM 2020\DATABASE PROGRAMMING WITH DB2\MYSAMPLEREVISEDINSERT\SAMPLE\ACCESS.CBL
+MFCBT_Directives=int"C:.\bin\x86\Debug\Access.int" dialect"MF" anim cobidy"obj\x86\Debug\" sourcetabstop"4" DB2(DB) noquery warnings"2" max-error"100" noobj"C:.\bin\x86\Debug\Access.int" xtraint . MFCBT_CopyPaths=
+=======
+^C:\IHCC\SUMMER TERM 2020\DATABASE PROGRAMMING WITH DB2\MYSAMPLEREVISEDINSERT\SAMPLE\ACCES.CBL
+MFCBT_Directives=int"C:.\bin\x86\Debug\Acces.int" dialect"MF" anim cobidy"obj\x86\Debug\" sourcetabstop"4" DB2(DB) noquery warnings"2" max-error"100" noobj"C:.\bin\x86\Debug\Acces.int" xtraint . MFCBT_CopyPaths=
+^C:\IHCC\SUMMER TERM 2020\DATABASE PROGRAMMING WITH DB2\MYSAMPLEREVISEDINSERT\SAMPLE\ACCESS.CBL
+MFCBT_Directives=int"C:.\bin\x86\Debug\Access.int" dialect"MF" anim cobidy"obj\x86\Debug\" sourcetabstop"4" DB2(DB) noquery warnings"2" max-error"100" noobj"C:.\bin\x86\Debug\Access.int" xtraint . MFCBT_CopyPaths=
+>>>>>>> b6b6cfaf02e6a9020282ae5746b77892f5fa7f33

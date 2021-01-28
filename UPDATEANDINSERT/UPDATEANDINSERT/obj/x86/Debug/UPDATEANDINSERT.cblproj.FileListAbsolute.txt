@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+C:\IHCC\Summer Term 2020\Database Programming With DB2\MYSAMPLEREVISEDINSERT\SAMPLE\obj\x86\Debug\Access.idy
+C:\IHCC\Summer Term 2020\Database Programming With DB2\MYSAMPLEREVISEDINSERT\SAMPLE\bin\x86\Debug\Access.idy
+=======
+C:\IHCC\Summer Term 2020\Database Programming With DB2\MYSAMPLEREVISEDINSERT\SAMPLE\obj\x86\Debug\Access.idy
+C:\IHCC\Summer Term 2020\Database Programming With DB2\MYSAMPLEREVISEDINSERT\SAMPLE\bin\x86\Debug\Access.idy
+>>>>>>> b6b6cfaf02e6a9020282ae5746b77892f5fa7f33
