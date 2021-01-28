@@ -189,11 +189,7 @@
            END-EXEC.
            PERFORM CONNECT-TO-DATABASE.
            PERFORM SELECT-OPTION.
-<<<<<<< HEAD
-      
-=======
-      *
->>>>>>> b6b6cfaf02e6a9020282ae5746b77892f5fa7f33
+
            IF WKOP = '1'
                PERFORM SELECT-DATA
            ELSE 
