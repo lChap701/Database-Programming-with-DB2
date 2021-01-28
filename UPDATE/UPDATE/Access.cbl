@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
        WORKING-STORAGE SECTION.
       *    REPRESENTS THE ENTER KEY
        01  WKHOLD                          PIC X.
@@ -1604,5 +1604,4 @@
            DISPLAY 'SQL ERROR = ' SQLSTATE ' ' SQLCODE.
            DISPLAY MFSQLMESSAGETEXT.
            ACCEPT WKHOLD.
->>>>>>> b6b6cfaf02e6a9020282ae5746b77892f5fa7f33
            STOP RUN.

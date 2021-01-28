@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+    
        WORKING-STORAGE SECTION.
        01  WKHOLD                  PIC X.
        
@@ -116,7 +116,7 @@ e               END-IF.
                ELSE
                    display 'Employee not found'
                            
-e               END-IF.
+               END-IF.
           
            
            DISPLAY 'Press enter to continue'.
@@ -136,6 +136,3 @@ e               END-IF.
            ACCEPT WKHOLD
            stop run
            .
-       
-       
->>>>>>> b6b6cfaf02e6a9020282ae5746b77892f5fa7f33
