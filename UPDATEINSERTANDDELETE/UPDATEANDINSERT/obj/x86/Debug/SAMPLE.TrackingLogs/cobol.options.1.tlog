@@ -1,0 +1,6 @@
+^C:\IHCC\SUMMER TERM 2020\DATABASE PROGRAMMING WITH DB2\MYSAMPLEREVISED\SAMPLE\SIMPLEACCESS.CBL
+MFCBT_Directives=int"C:.\bin\x86\Debug\SimpleAccess.int" dialect"MF" anim cobidy"obj\x86\Debug\" sourcetabstop"4" DB2(DB) noquery warnings"2" max-error"100" noobj"C:.\bin\x86\Debug\SimpleAccess.int" xtraint . MFCBT_CopyPaths=
+^C:\IHCC\SUMMER TERM 2020\DATABASE PROGRAMMING WITH DB2\MYSAMPLEREVISED\SAMPLE\SAMPLE.CBL
+MFCBT_Directives=int"C:.\bin\x86\Debug\Sample.int" anim cobidy"obj\x86\Debug\" sourcetabstop"4" DB2(DB) noquery warnings"2" max-error"100" noobj"C:.\bin\x86\Debug\Sample.int" xtraint . MFCBT_CopyPaths=
+^C:\IHCC\SUMMER TERM 2020\DATABASE PROGRAMMING WITH DB2\MYSAMPLEREVISEDINSERT\SAMPLE\SIMPLEACCES.CBL
+

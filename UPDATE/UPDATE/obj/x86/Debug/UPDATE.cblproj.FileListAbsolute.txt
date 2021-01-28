@@ -1,0 +1,4 @@
+C:\IHCC\Summer Term 2020\Database Programming With DB2\MYSAMPLEREVISED - Copy\SAMPLE\bin\x86\Debug\SimpleAccess.idy
+C:\IHCC\Summer Term 2020\Database Programming With DB2\MYSAMPLEREVISED - Copy\SAMPLE\obj\x86\Debug\Access.idy
+C:\IHCC\Summer Term 2020\Database Programming With DB2\UPDATE\UPDATE\bin\x86\Debug\Access.idy
+C:\IHCC\Summer Term 2020\Database Programming With DB2\UPDATE\UPDATE\obj\x86\Debug\Access.idy

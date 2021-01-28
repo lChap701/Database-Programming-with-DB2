@@ -1,0 +1,1 @@
+I had add a new row (the row with a Customer ID of 1005 in the Customers table) for this assignment
